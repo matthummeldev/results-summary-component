@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- View Project Code: [Add solution URL here](https://github.com/mattrhummel/results-summary-component)
-- Preview Project: [Add live site URL here](https://mattrhummel.github.io/results-summary-component/)
+- View Project Code: [View Project Code](https://github.com/mattrhummel/results-summary-component)
+- Preview Project: [Preview Project](https://mattrhummel.github.io/results-summary-component/)
 
 ## My process
 
