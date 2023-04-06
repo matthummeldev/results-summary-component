@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- View Project Code: [Add solution URL here](https://your-solution-url.com)
-- Preview Project: [Add live site URL here](https://your-live-site-url.com)
+- View Project Code: [Add solution URL here](https://github.com/mattrhummel/results-summary-component)
+- Preview Project: [Add live site URL here](https://mattrhummel.github.io/results-summary-component/)
 
 ## My process
 
@@ -156,7 +156,7 @@ Use this section to recap over some of your major learnings while working throug
 ## Author
 
 - Website - [Matt Hummel](https://matthummel.com)
-- Frontend Mentor - [@mattrhummel](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mattrhummel](https://www.frontendmentor.io/profile/mattrhummel)
 
 ## Acknowledgments
 
