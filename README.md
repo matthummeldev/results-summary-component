@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- View Project Code: [View Project Code](https://github.com/mattrhummel/results-summary-component)
-- Preview Project: [Preview Project](https://mattrhummel.github.io/results-summary-component/)
+- [View Project Code](https://github.com/mattrhummel/results-summary-component)
+- [Preview Project](https://mattrhummel.github.io/results-summary-component/)
 
 ## My process
 
@@ -151,7 +151,7 @@ Use this section to recap over some of your major learnings while working throug
 ### Useful resources
 
 - [How to resize HeroIcons](https://www.geeksforgeeks.org/how-to-resize-svg-icon-using-tailwind-css/) - This helped me understand how to resize the HeroIcon Icons.
-- [Understanding TailWind Flex](https://www.example.com) - This documentation helped me understand how to use flex properly in tailwind.
+- [Understanding TailWind Flex](https://tailwindcss.com/docs/flex) - This documentation helped me understand how to use flex properly in tailwind.
 
 ## Author
 
